@@ -9,7 +9,7 @@ import { FaWhatsapp } from "react-icons/fa";
 const Footer = () => {
 const router=useRouter();
   return (
-    <div className="bg-[#e0e0e0]  h-[469px] flex rounded">
+    <div className="bg-[#e0e0e0] h-[469px] flex rounded">
 {/* 1st div */}
       <div  className=" w-[650px]  h-[469px] ml-10">
       <h1 className=" pt-6 ml-10 w-[200px]  text-black text-3xl font-bold ">Get in touch </h1>

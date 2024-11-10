@@ -20,8 +20,7 @@ setName(names[nextIndex])
         <div className="w-[429px] 
 h-[343.5px]  flex flex-col gap-5 ">
 <h1 className="text-[64px] font-bold text-[#000000] leading-normal text-pretty" data-aos="flip-left">Limitless Creativity</h1>
-{/* <p className="text-[20px] text-[#000000] gap-6" data-aos="flip-left">I will create something that will
-exceeding your expectation</p> */}
+
 <p className="text-[20px] text-[#000000] gap-6  font-bold font-serif text-4xl" data-aos="flip-left"> I'm a <p className='text-4xl text-red-600'> {name} </p> </p>
 <button onClick={changeName} className="rounded-full w-[220px] h-[60.21px] mt-3 p-3 text-[20px] font-bold bg-[#964E27] gap-10 text-[#ffffff]" data-aos="flip-left">Click me</button>
 </div> 

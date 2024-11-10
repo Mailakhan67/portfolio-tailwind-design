@@ -8,7 +8,7 @@ const AboutUs = () => {
     <div className=" h-screen py-10 px-5 mt-14">
       <h2 className="text-6xl font-bold text-center mb-5">About Me</h2>
       <p className="text-lg text-gray-700 mb-4 mt-6">
-        Hi, I'm <span className="font-semibold">Shumaila Khan</span>, a passionate web developer with a focus on creating user-friendly and visually appealing websites.
+        Hi, I'm <span className="font-semibold">Maila Khan</span>, a passionate web developer with a focus on creating user-friendly and visually appealing websites.
       </p>
       <p className="text-lg text-gray-700 mb-4">
         I specialize in web development using modern frameworks like Next.js, with a strong focus on responsive design using Tailwind CSS.
